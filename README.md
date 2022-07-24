@@ -14,7 +14,7 @@ Githib for Mets machine learning blog post: https://thefattails.com/putting-mets
 Create and upload data to SQL tables. 
 
 #### 01_knn_lindor.ipynb
-Data cleaning and KNN analysis. 
+Data cleaning and nearest neighbors analysis. 
 
 #### 02_similiarity_plot.ipynb
 Create similarity plot. Final plot in blog created using [Datawrapper](https://www.datawrapper.de/). 
